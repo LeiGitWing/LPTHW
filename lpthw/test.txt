@@ -1,0 +1,3 @@
+# Solution 0
+
+Learn how to use common commands to create a new directory and how to write in a new file.
